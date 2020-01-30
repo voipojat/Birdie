@@ -1,3 +1,9 @@
+
+An application where users can share their bird observations to other users.
+User can also save observations locally when offline, and upload them when he/she is back online.
+
+<img src="https://i.gyazo.com/5e27ead4140aa9a21ca33f20acd1a536.png" alt="Image from Gyazo" width="434"/></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
