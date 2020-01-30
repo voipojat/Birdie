@@ -116,7 +116,7 @@ function App() {
             </div>
 
             {observation.slice(0).reverse().map(obs => (
-              <Observation species={obs.species} rarity={obs.rarity} notes={obs.notes} img={obs.img} stamp={obs.stamp} longitude={longitude} latitude={latitude} />
+              <Observation species={obs.species} rarity={obs.rarity} notes={obs.notes} img={obs.img} stamp={obs.stamp} longitude={obs.longitude} latitude={obs.latitude} />
             ))}
           </div>}
         <Form
